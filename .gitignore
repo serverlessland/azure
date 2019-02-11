@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+pulumi*
+
+*.zip
+
+bin/
+obj/
+main
+target/
+.vscode/
+.settings/
+.python_packages/
+*.pyc
